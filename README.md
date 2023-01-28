@@ -11,3 +11,8 @@ The `numpy` module is used to generate random numbers fit for use as lattitude a
 
 ### Mapping
 `Gmaps` and data from Google are used to create a heat map that displays the cities selected by the user and visualize their highest temperatureas. More data from google is used to create a map that displays markers and information boxes for a hotel in each of the selected cities. Finally, four cities are selected by the user, and Google Directions, along with gmaps, is used to create a map that shows a route between those four cities and information a hotel in each of them.
+
+![Vaction Heatmap](World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png)
+
+
+![Itinerary map](World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
